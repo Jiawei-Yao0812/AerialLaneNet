@@ -11,7 +11,7 @@ Xiaofeng Zhang
 
 
 
-[![arXiv](https://img.shields.io/badge/arXiv-2306.15670-yellow?logo=arXiv&logoColor=yellow)](https://arxiv.org/abs/2309.14616)
+[![arXiv](https://img.shields.io/badge/arXiv-2306.15670-yellow?logo=arXiv&logoColor=yellow)](https://arxiv.org/abs/2312.13449)
 
 
 ![image](./teaser.jpg)
@@ -55,5 +55,11 @@ Please download our dataset through this [link](https://drive.google.com/file/d/
 If you have any problem or suggestion, please feel free to open an issue or send emails to the contributors.
 
 ```
+@article{yao2023building,
+  title={Building Lane-Level Maps from Aerial Images},
+  author={Yao, Jiawei and Pan, Xiaochao and Wu, Tong and Zhang, Xiaofeng},
+  journal={arXiv preprint arXiv:2312.13449},
+  year={2023}
+}
 
 ```
