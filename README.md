@@ -55,11 +55,13 @@ Please download our dataset through this [link](https://drive.google.com/file/d/
 If you have any problem or suggestion, please feel free to open an issue or send emails to the contributors.
 
 ```
-@article{yao2023building,
-  title={Building Lane-Level Maps from Aerial Images},
+@inproceedings{yao2024building,
+  title={Building lane-level maps from aerial images},
   author={Yao, Jiawei and Pan, Xiaochao and Wu, Tong and Zhang, Xiaofeng},
-  journal={arXiv preprint arXiv:2312.13449},
-  year={2023}
+  booktitle={ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  pages={3890--3894},
+  year={2024},
+  organization={IEEE}
 }
 
 ```
