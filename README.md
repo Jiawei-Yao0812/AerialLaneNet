@@ -17,20 +17,6 @@ Xiaofeng Zhang
 ![image](./teaser.jpg)
 
 
-## AerialLaneNet Requirements
-
-1. Create conda environment:
-
-```
-$ conda create -y -n AerialLaneNet python=3.7
-$ conda activate AerialLaneNet
-```
-2. This code is compatible with python 3.7, pytorch 1.7.1 and CUDA 10.2. Please install [PyTorch](https://pytorch.org/): 
-
-```
-$ conda install pytorch==1.7.1 torchvision==0.8.2 torchaudio==0.7.2 cudatoolkit=10.2 -c pytorch
-```
-
 ## AErial Lane (AEL) Dataset 
 
 ### Description
@@ -47,7 +33,24 @@ Our split ratio of training set:validation set:test set is 7:2:1.
 
 ### AEL Dataset Downloads
 
-Please download our dataset through this [link](https://drive.google.com/file/d/1fNTS4FrPbNUAWy6mdH9iqD3mYt7QHzIJ/view?usp=sharing)
+Please download our [dataset](https://drive.google.com/file/d/1fNTS4FrPbNUAWy6mdH9iqD3mYt7QHzIJ/view?usp=sharing), [scripts](https://drive.google.com/file/d/1F_Fne7Nv9na64Xp1R5T6TZbBHgSTycik/view?usp=sharing) and [qgis_annotation_data](https://drive.google.com/file/d/1d00LoxBIKenj7JG7TPhCAzhQ5tSJhyVi/view?usp=sharing)
+
+
+## AerialLaneNet Requirements
+
+1. Create conda environment:
+
+```
+$ conda create -y -n AerialLaneNet python=3.7
+$ conda activate AerialLaneNet
+```
+2. This code is compatible with python 3.7, pytorch 1.7.1 and CUDA 10.2. Please install [PyTorch](https://pytorch.org/): 
+
+```
+$ conda install pytorch==1.7.1 torchvision==0.8.2 torchaudio==0.7.2 cudatoolkit=10.2 -c pytorch
+```
+
+
 
 
 ## Citation
